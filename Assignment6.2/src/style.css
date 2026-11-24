@@ -1,0 +1,14 @@
+.root {
+    -fx-font-family: "SansSerif";
+    -fx-font-size: 14px;
+    -fx-background-color: #f4f4f4;
+}
+
+.button {
+    -fx-background-color: #2878c8;
+    -fx-text-fill: white;
+}
+
+.label {
+    -fx-text-fill: #333333;
+}
